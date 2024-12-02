@@ -30,7 +30,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I learned how to utilize Git and various JavaScript features.
 
 ## License
 
