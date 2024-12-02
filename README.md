@@ -1,6 +1,6 @@
 # WEB102 Prework - PlayPledge
 
-Submitted by: Emelt Barcenas
+Submitted by: Emely Barcenas
 
 PlayPledge is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
