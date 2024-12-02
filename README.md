@@ -19,10 +19,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Emely-Barcenas-PlayPledge-Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -30,7 +30,7 @@ GIF created with ...
 
 ## Notes
 
-I learned how to utilize Git and various JavaScript features.
+I learned how to utilize Git, various JavaScript features, and GIF screen recording software.
 
 ## License
 
